@@ -14,7 +14,7 @@ To run it, you first have to:
 1) [Download Python](https://www.python.org/downloads/).
 2) Install the dependencies. Run these two commands in the command line:<br>
 `cd C:/path/to/directory/with/program/`<br>
-`pip3 install -r requirements.txt`<br>
+`pip install -r requirements.txt`<br>
 
 
 Then you can run `main.py`
